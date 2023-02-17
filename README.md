@@ -1,8 +1,9 @@
 ### 👋 Hi there 
-
 ## 👨🏽‍💻 Under development...
-<!--
-**fsiggor/fsiggor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img align='right' src="https://camo.githubusercontent.com/11d41f1262531b146d6ed0cdca19365772f7f665897622a3feb2c8324ec7b413/687474703a2f2f7374617469632e76656c76657463616368652e6f72672f70616765732f323031382f30362f31332f70617274792d676f706865722f70617274792d676f706865722e676966">
+
+<img align='right' src="https://camo.githubusercontent.com/3c553beb641d154ec09f3f1cce78f434eb72a9b2843dc45e5aa191cc6234b383/687474703a2f2f7374617469632e76656c76657463616368652e6f72672f70616765732f323031382f30362f31332f70617274792d676f706865722f64616e63696e672d676f706865722e676966">
 
 Here are some ideas to get you started:
 
@@ -14,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
